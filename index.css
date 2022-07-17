@@ -271,7 +271,8 @@ transition: 300ms;
     align-items: center;
 }
 
-.contact-section .row-contact div h1 {
+.contact-section .row-contact div a{
+    text-decoration: none;
     font-family: "Poppins";
     font-size: 35px;
     font-weight: 500;
